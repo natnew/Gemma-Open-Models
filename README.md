@@ -1,6 +1,7 @@
 # Gemma-models
 Gemma is a family of lightweight, state-of-the-art open models built from the same research and technology used to create the Gemini models.
 
+- [Model Card](https://ai.google.dev/gemma/docs/model_card)
 - [Technical Resport](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)
 - [Guides](https://ai.google.dev/gemma/docs/?utm_source=agd&utm_medium=referral&utm_campaign=quickstart-docu&utm_content)
 - [News](https://blog.google/technology/developers/gemma-open-models/)
