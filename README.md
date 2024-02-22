@@ -1,6 +1,18 @@
 # Gemma-Open-Models
 Gemma is a family of lightweight, state-of-the-art open models built from the same research and technology used to create the Gemini models.
 
+![](https://github.com/natnew/Gemma-Open-Models/blob/main/Gemma.png)
+
+
+| Preview                                                                                                                                                                                                                                     | Description                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [<img src="https://www.nvidia.com/content/nvidiaGDC/us/en_US/glossary/generative-ai/_jcr_content/root/responsivegrid/nv_container_684078787/nv_image.coreimg.svg/1685574370254/evaluate.svg" width="150" />](https://www.nvidia.com/content/nvidiaGDC/us/en_US/glossary/generative-ai/_jcr_content/root/responsivegrid/nv_container_684078787/nv_image.coreimg.svg/1685574370254/evaluate.svg)    | [ The three requirements of a successful generative AI model.](https://www.nvidia.com/en-us/glossary/generative-ai/) |
+| [<img src="https://www.nvidia.com/content/nvidiaGDC/us/en_US/glossary/generative-ai/_jcr_content/root/responsivegrid/nv_container_871136465/nv_image.coreimg.svg/1685574370784/usecases.svg" width="150" />](https://www.nvidia.com/content/nvidiaGDC/us/en_US/glossary/generative-ai/_jcr_content/root/responsivegrid/nv_container_871136465/nv_image.coreimg.svg/1685574370784/usecases.svg)    | [The diagram shows possible generative AI use cases within each category.](https://www.nvidia.com/en-us/glossary/generative-ai/) |
+| [<img src="https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202310/MIT-AI-Shift-01-press.jpg?itok=gDETOcEM" width="150" />](https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202310/MIT-AI-Shift-01-press.jpg?itok=gDETOcEM)    | [AI models that prioritize similarity falter when asked to design something completely new.](https://news.mit.edu/2023/generative-ai-must-innovate-engineering-design-1019) |
+| [<img src="https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/GANs_Diffusion_Autoencoders.png" width="150" />](https://developer-blogs.nvidia.com/wp-content/uploads/2022/04/GANs_Diffusion_Autoencoders.png)    |  [Generative learning trilemma](https://developer.nvidia.com/blog/improving-diffusion-models-as-an-alternative-to-gans-part-1/) |
+| [<img src="https://blogs.nvidia.com/wp-content/uploads/2022/03/Transformer-apps-1280x875.jpg.webp" width="150" />](https://blogs.nvidia.com/wp-content/uploads/2022/03/Transformer-apps-1280x875.jpg.webp)    | [What Can Transformer Models Do?](https://blogs.nvidia.com/blog/what-is-a-transformer-model/) |
+| [<img src="https://blogs.nvidia.com/wp-content/uploads/2022/03/Switch-Transformer-842x440.jpg.webp" width="150" />](https://blogs.nvidia.com/wp-content/uploads/2022/03/Switch-Transformer-842x440.jpg.webp)    |  [MoE Means More for Transformers](https://blogs.nvidia.com/blog/what-is-a-transformer-model/) |
+
 ---
 
 ## Setup
@@ -50,3 +62,17 @@ In Colab, select **Secrets** (🔑) in the left pane and add your Kaggle usernam
 
 - [Hugging Face](https://huggingface.co/blog/gemma/?utm_source=agd&utm_medium=referral&utm_campaign=view-on-huggingface&utm_content=)
 - [NVIDIA](https://github.com/NVIDIA/GenerativeAIExamples/tree/main/models/Gemma/?utm_source=agd&utm_medium=referral&utm_campaign=view-on-github&utm_content=)
+
+---
+## Contributing
+Contributions welcome! See the Contributing Guide.
+
+---
+
+## Getting help
+Please use the issues page to provide suggestions, feedback or submit a bug report.
+
+---
+
+## Disclaimer
+This repository itself is not an officially supported Google product. The code in this repository is for demonstrative purposes only.
